@@ -12,6 +12,7 @@ jupyterlab = "*"
 langchain-community = "~=0.0.38"
 langchain-openai = "~=0.1.1"
 langchainhub = "*"
+starlette = "~=0.40.0"
 
 [dev-packages]
 ipykernel = "*"
